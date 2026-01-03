@@ -1,0 +1,14 @@
+BasedOnStyle: Google
+AllowShortBlocksOnASingleLine: Empty
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBraces: Attach
+SortIncludes: true
+IndentWidth: 4
+ContinuationIndentWidth: 4
+TabWidth: 4
+AccessModifierOffset: -4
+PointerAlignment: Left
+ColumnLimit: 100
+AlignTrailingComments: true
+BinPackArguments: true
+BinPackParameters: true

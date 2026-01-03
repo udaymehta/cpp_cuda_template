@@ -1,0 +1,12 @@
+CompileFlags:
+  Add: 
+    - "--cuda-path=/opt/cuda-11.7"
+    - "-xcuda"
+    
+  Remove: 
+    - "-forward-unknown-to-host-compiler"
+    - "-rdc=*"
+    - "-arch=*"        
+    - "--options-file" 
+    - "-Xcompiler*"
+    - "--generate-code*"
