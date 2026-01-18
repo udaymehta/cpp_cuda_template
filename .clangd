@@ -10,3 +10,6 @@ CompileFlags:
     - "--options-file" 
     - "-Xcompiler*"
     - "--generate-code*"
+    - "-fmodules-ts"
+    - "-fmodule-mapper=*"
+    - "-fdeps-format=*"
