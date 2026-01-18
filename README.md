@@ -14,7 +14,7 @@ A boilerplate repo for C++ and CUDA development on Linux.
 1.  **Clone with Dependencies**
     You *must* use `--recursive` to download the external libraries. However, its your choice.
     ```bash
-    git clone --recursive [https://github.com/yourusername/cpp-cuda-template.git](https://github.com/yourusername/cpp-cuda-template.git)
+    git clone --recursive https://github.com/udaymehta/cpp-cuda-template.git
     cd cpp-cuda-template
     ```
 
